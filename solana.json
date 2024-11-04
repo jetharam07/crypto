@@ -1,0 +1,12 @@
+{
+  "name": "Tiger",
+  "symbol": "TGR",
+  "description": "Only Possible On Solana",
+  "image": "https://github.com/jetharam07/crypto/blob/main/bullDog.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
